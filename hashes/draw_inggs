@@ -648,7 +648,7 @@ function DrawingLib.createFrame()
 end
 
 task.spawn(function()
-	print("Synth X !\nhttps://discord.gg/synthx\n Draco likes dicks")
+	print("API BY PSWALLOZ\n nigger")
 	local _game = game:GetService("CoreGui").Parent
 local HttpService = _game:FindService("HttpService")
 
